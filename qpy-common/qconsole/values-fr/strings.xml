@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string name="application_terminal">QPython Console</string>
+   <string name="application_terminal">Console QPython</string>
    <string name="preferences">préférences</string>
    <string name="new_window">nouvelle fenêtre</string>
    <string name="close_window">Fonctionne dans le fond</string>
@@ -23,7 +23,7 @@
    <string name="send_control_key">Envoyer touche de commande</string>
    <string name="send_fn_key">Envoyer touche fn</string>
    <string name="window_title">N° %1$d</string>
-   <string name="service_notify_text">QPython console est en marche</string>
+   <string name="service_notify_text">Console QPython est en marche</string>
    <string name="process_exit_message">Console QPython fermer</string>
    <!-- Preference dialog -->
    <string name="screen_preferences">écran</string>
@@ -41,11 +41,11 @@
    <string name="dialog_title_cursorblink_preference">curseur clignotant</string>
    <string name="text_preferences">Texte</string>
    <string name="title_utf8_by_default_preference">Par défaut en UTF-8</string>
-   <string name="summary_utf8_by_default_preference">Si le mode UTF-8 est activé par défaut</string>
-   <string name="title_fontsize_preference">taille de police</string>
+   <string name="summary_utf8_by_default_preference">Activé le mode UTF-8 par défaut</string>
+   <string name="title_fontsize_preference">Taille de la police</string>
    <string name="summary_fontsize_preference">Choisissez hauteur de caractère en points</string>
-   <string name="dialog_title_fontsize_preference">taille de police</string>
-   <string name="title_color_preference">couleurs</string>
+   <string name="dialog_title_fontsize_preference">Taille de la police</string>
+   <string name="title_color_preference">Couleurs</string>
    <string name="summary_color_preference">Choisissez la couleur du texte</string>
    <string name="dialog_title_color_preference">la couleur du texte</string>
    <string name="keyboard_preferences">Clavier</string>
@@ -100,7 +100,7 @@
   <string name="email_transcript_no_email_activity_found">Vous ne pouvez pas sélectionner une application e-mail pour envoyer le dossier</string>
   <string name="alt_sends_esc">Touche Alt envoie ESC</string>
   <string name="alt_sends_esc_summary_on">Touche Alt envoie ESC</string>
-  <string name="alt_sends_esc_summary_off">ouche Alt ne pas envoyer ESC</string>
+  <string name="alt_sends_esc_summary_off">Touche Alt ne pas envoyer ESC</string>
   <string name="pref_initialcommand_default_qpython">python</string>
   <string name="promote_ok">OK</string>
   <string name="promote_no">Non</string>
