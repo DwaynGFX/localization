@@ -36,15 +36,15 @@
     <string name="running">Courir ...</string>
 
     <string name="py_install_ok">Installation réussie</string>
-    <string name="py_install_failed">Installez Échec. S\'il vous plaît vérifier les journaux</string>
+    <string name="py_install_failed">Échec de l'instalation. S\'il vous plaît vérifier les journaux</string>
     <string name="need_initialization">Vous devez initialiser l\'environnement python</string>
 
     <string name="initialization">Initialisation...</string>
-    <string name="m_local_single">Scripts locales</string>
+    <string name="m_local_single">Scripts locaux</string>
     <string name="k">KB</string>
 
     <string name="t_intro">Démarrage Rapide</string>
 
-    <string name="sl4a_running">Service SL4A Courir ...</string>
+    <string name="sl4a_running">Service SL4A en marche ...</string>
 
 </resources>
